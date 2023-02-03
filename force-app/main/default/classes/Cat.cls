@@ -1,7 +1,7 @@
 public class Cat {
     public string name;
     public string color;
-
+    //non parameterized constructor
     public Cat() {
         system.debug('cat contructor called. okay?');
     }
